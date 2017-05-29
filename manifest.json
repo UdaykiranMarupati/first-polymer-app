@@ -1,0 +1,7 @@
+{
+  "name": "first-polymer-app",
+  "short_name": "first-polymer-app",
+  "description": "polymer sample application",
+  "start_url": "/",
+  "display": "standalone"
+}
